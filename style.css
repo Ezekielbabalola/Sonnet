@@ -1,0 +1,23 @@
+body{
+    background-color:#E2AD7F ;
+}
+
+.day{
+    background-color: #F5F5DC;
+    text-align: center;
+    border: 5px dotted black;
+    width: 50%;
+    margin: auto;
+}
+
+.list{
+    list-style-type: none;
+
+}
+span{
+    font-weight: bold;
+    font-size: 20px;
+}
+.head{
+    border-bottom: 5px dotted black;
+}
